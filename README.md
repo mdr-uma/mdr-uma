@@ -1,4 +1,4 @@
-## Hi there, I'm [Uma] (https://www.uma-manandhar.com/) 👋
+## Hi there, I'm [Uma!] (https://www.uma-manandhar.com/) 👋
 ### Welcome to my GitHub Profile!
 
 #### Front-end Web Developer. Passionate, enthusiastic, self-driven individual seeking for new opportunities to grow as a Web Developer.
