@@ -26,3 +26,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdr-uma&layout=compact&theme=material-palenight" />
 </a>
  
+<a href="https://github.com/mdr-uma/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdr-uma&repo=portfolio&theme=material-palenight" />
+</a>
