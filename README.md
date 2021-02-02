@@ -25,11 +25,4 @@
 <a href="https://github.com/mdr-uma/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdr-uma&layout=compact&theme=material-palenight" />
 </a>
-
-<a href="https://github.com/mdr-uma/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdr-uma&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-
-<a href="https://github.com/mdr-uma/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdr-uma&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>
+ 
