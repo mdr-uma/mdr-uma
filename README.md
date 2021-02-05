@@ -27,5 +27,5 @@
 </a>
  
 <a href="https://github.com/mdr-uma/portfolio">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mdr-uma&repo=portfolio&theme=material-palenight" />
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=mdr-uma&repo=portfolio&theme=material-palenight" />
 </a>
