@@ -23,9 +23,9 @@
 </a>
 
 <a href="https://github.com/mdr-uma/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdr-uma&layout=compact&theme=material-palenight" />
+  <img align="right" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdr-uma&layout=compact&theme=material-palenight" />
 </a>
  
 <a href="https://github.com/mdr-uma/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdr-uma&repo=portfolio&theme=material-palenight" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mdr-uma&repo=portfolio&theme=material-palenight" />
 </a>
