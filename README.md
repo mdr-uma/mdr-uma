@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/mdr-uma/github-readme-stats">
-  <img align="right" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdr-uma&layout=compact&theme=material-palenight" />
+  <img align="right" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdr-uma&layout=compact&theme=material-palenight" />
 </a>
  
 <a href="https://github.com/mdr-uma/portfolio">
