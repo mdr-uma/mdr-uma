@@ -1,6 +1,6 @@
 ## Hi there, Welcome to my GitHub Profile! 👋
 ## I'm [Uma!](https://www.uma-manandhar.com/) 
-#### Software Engineer searching for Front-end role. Passionate, enthusiastic, self-driven individual seeking for new opportunities to grow as a Front-end Developer.
+### Software Engineer searching for Front-end role. Passionate, enthusiastic, self-driven individual seeking for new opportunities to grow as a Front-end Developer.
 
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning React Hooks
@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/mdr-uma/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdr-uma&layout=compact&theme=material-palenight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdr-uma&layout=compact&theme=material-palenight" />
 </a>
  
 <a href="https://github.com/mdr-uma/portfolio">
