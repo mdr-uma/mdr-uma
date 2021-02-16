@@ -1,6 +1,6 @@
 ## Hi there, Welcome to my GitHub Profile! 👋
 ## I'm [Uma!](https://www.uma-manandhar.com/) 
-### Software Engineer searching for Front-end role. Passionate, enthusiastic, self-driven individual seeking for new opportunities to grow as a Front-end Developer.
+### Software Engineer searching for Front-end role. Passionate, enthusiastic, self-driven individual seeking for a new opportunities to grow as a Front-end Developer.
 
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning React Hooks
