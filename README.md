@@ -9,6 +9,8 @@
   <img align="left" alt="Uma Manandhar | Linkedin" width="30px" src="https://raw.githubusercontent.com/mdr-uma/mdr-uma/master/images/linkedin.svg" />
 </a>
 
+<br/>
+
 ### Software Engineer searching for Front-end role. Passionate, enthusiastic, self-driven individual seeking for a new opportunities to grow as a Front-end Developer.
 
 
