@@ -1,6 +1,16 @@
 ## Hi there, Welcome to my GitHub Profile! 👋
 ## I'm [Uma!](https://www.uma-manandhar.com/) 
+
+<a href="https://twitter.com/imoohma">
+  <img align="left" alt="Uma Manandhar | Twitter" width="30px" src="https://raw.githubusercontent.com/mdr-uma/mdr-uma/master/images/twitter-seeklogo.com.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/uma-manandhar/">
+  <img align="left" alt="Uma Manandhar | Linkedin" width="30px" src="https://raw.githubusercontent.com/mdr-uma/mdr-uma/master/images/linkedin.svg" />
+</a>
+
 ### Software Engineer searching for Front-end role. Passionate, enthusiastic, self-driven individual seeking for a new opportunities to grow as a Front-end Developer.
+
 
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning React Hooks
