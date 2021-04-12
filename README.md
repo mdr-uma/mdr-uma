@@ -15,7 +15,7 @@
 
 
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning React Hooks
+- 🌱 I’m currently learning Tailwind CSS
 - 🔭 I’m currently working on my Portfolio
 
 **Languages and Tools:**
