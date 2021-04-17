@@ -11,7 +11,7 @@
 
 <br/>
 
-### Software Engineer searching for Front-end role. Passionate, enthusiastic, self-driven individual seeking for a new opportunities to grow as a Front-end Developer.
+### Passionate Software Engineer searching for a Front-end role. Former Math teacher and graphic designer, lifelong learner, enthusiastic, self-driven individual seeking for a new opportunities to grow as a Web Developer.
 
 
 - 😄 Pronouns: she/her
