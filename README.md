@@ -15,7 +15,7 @@
 
 
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning Tailwind CSS
+- 🌱 I’m currently learning Node.js
 - 🔭 I’m currently working on wechat app
 
 **Languages and Tools:**
