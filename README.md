@@ -16,7 +16,7 @@
 
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning Node.js
-- 🔭 I’m currently working on wechat app
+- 🔭 I’m currently working on Schedule Tweet app
 
 **Languages and Tools:**
 
