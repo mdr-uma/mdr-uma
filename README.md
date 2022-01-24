@@ -11,7 +11,7 @@
 
 <br/>
 
-### Passionate Software Engineer searching for a Front-end role. Former Math teacher and graphic designer, lifelong learner, enthusiastic, self-driven individual seeking for a new opportunities to grow as a Web Developer.
+### Self-driven Software Engineer, Graphic designer and former Math teacher searching for a new opportunities to grow as a Web Developer.
 
 
 - 😄 Pronouns: she/her
