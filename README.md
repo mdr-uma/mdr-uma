@@ -15,7 +15,7 @@
 
 
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning React Hooks
+- 🌱 I’m currently learning Java
 - 🔭 I’m currently working on Schedule Tweet app
 
 **Languages and Tools:**
