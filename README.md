@@ -11,7 +11,7 @@
 
 <br/>
 
-### Self-driven Software Engineer, Graphic designer and former Math teacher searching for a new opportunities to grow as a Web Developer.
+### Self-driven Software Engineer, Graphic designer and former Math teacher.
 
 
 - 😄 Pronouns: she/her
