@@ -16,7 +16,7 @@
 
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning Java
-- 🔭 I’m currently working on Schedule Tweet app
+- 🔭 I’m currently working on Guess the word game app
 
 **Languages and Tools:**
 
