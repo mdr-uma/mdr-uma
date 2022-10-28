@@ -15,7 +15,7 @@
 
 
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning CS50 2022
 - 🔭 I’m currently working on Guess the word game app
 
 **Languages and Tools:**
